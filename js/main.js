@@ -34,7 +34,7 @@ const T = {
     'hero-sub':    'Mann Janodia \u00a0\u2022\u00a0 MSc Robotics',
     'hero-desc':   'Full-stack robotics specialist building systems that perform. From tuning PID loops to training neural networks, I develop the "brain" and "body" in tandem.',
     'hero-goal':   'My goal: make robotics smarter and more accessible.',
-    'hero-resume': 'Resume',
+    'hero-resume': 'Connect With Me',
 
     /* ── About ── */
     'about-tag':    'About Me',
