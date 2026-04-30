@@ -67,7 +67,7 @@ const T = {
     /* ── Skills ── */
     'sk-tag':   'Technical Arsenal',
     'sk-title': 'Skills',
-    'sk1-cat':  'Languages',
+    'sk1-cat':  'programming Languages',
     'sk2-cat':  'Robotics & ROS2',
     'sk3-cat':  'AI & Computer Vision',
     'sk4-cat':  'Hardware',
